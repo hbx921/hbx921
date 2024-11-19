@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter & Kotlin**
 
-- 👨‍💻 All of my projects are available at [hizurk1.github.io](https://hizurk1.github.io/)
+- 👨‍💻 All of my projects are available at [Repos](https://github.com/hizurk1?tab=repositories)
 
 - ⚡ Fun fact "I've been using computers for over 10 years, and somehow, I’m still not nearsighted!" 👀
 
