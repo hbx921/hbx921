@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hizurk1.hizurk1" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hieu+Bui!;" />
@@ -8,9 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter & Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://hizurk1.github.io/](https://hizurk1.github.io/)
-
-- 📫 How to reach me **hieubui201.work@gmail.com**
+- 👨‍💻 All of my projects are available at [hizurk1.github.io](https://hizurk1.github.io/)
 
 - ⚡ Fun fact **👀 I've been using computers for over 10 years, and somehow, I’m still not nearsighted!**
 
