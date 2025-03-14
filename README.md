@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working for **a drone company**
 
-- 🌱 I’m currently learning **Flutter & Kotlin**
+- 🌱 I’m currently learning **Flutter, Kotlin, Python & Go**
 
 - 👨‍💻 All of my projects are available at [Repos](https://github.com/hizurk1?tab=repositories)
 
@@ -35,8 +35,8 @@
 <h3 align="left">⚒️ Languages and Tools:</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,html,css,nodejs,python,javascript,express" />
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,figma,firebase,mongodb,mysql,heroku" /><br>
+    <img src="https://skillicons.dev/icons?i=dart,kotlin,java,python,go,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,html,css,nodejs,express,figma,firebase,mongodb" /><br>
 </div>
 <br/>
 
@@ -51,6 +51,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hizurk1&" alt="hizurk1" /></p>
 
 <hr>
-
-<h3 align="left">✌️ Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hizurk1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hizurk1" /></a></p><br><br>
