@@ -35,8 +35,8 @@
 <h3 align="left">⚒️ Languages and Tools:</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dart,kotlin,java,python,go,javascript" /><br>
-    <img src="https://skillicons.dev/icons?i=flutter,html,css,nodejs,express,figma,firebase,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=dart,go,kotlin,python,javascript,java" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,postgresql,figma,androidstudio,firebase" /><br>
 </div>
 <br/>
 
@@ -44,10 +44,14 @@
 
 <h3 align="left">✨ Stats:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hizurk1&show_icons=true&locale=en&layout=compact" alt="hizurk1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hizurk1&show_icons=true&locale=en" alt="hizurk1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hizurk1" alt="hizurk1" /></p>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hizurk1&show_icons=true&locale=en&layout=compact&card_width=445" alt="hizurk1" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=hizurk1&show_icons=true&locale=en" alt="hizurk1" /></td>
+  </tr>
+</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hizurk1" alt="hizurk1" />
+</p>
 
 <hr>
