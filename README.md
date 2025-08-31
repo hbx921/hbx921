@@ -34,7 +34,7 @@
 
 <h3 align="left">⚒️ Languages and Tools:</h3>
 <br/>
-<div align="center">type
+<div align="center">
     <img src="https://skillicons.dev/icons?i=dart,go,kotlin,python,typescript,java" /><br>
     <img src="https://skillicons.dev/icons?i=flutter,postgresql,figma,androidstudio,firebase,docker" /><br>
 </div>
